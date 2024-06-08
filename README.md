@@ -1,3 +1,5 @@
+# Credit: [TheCubiq](https://github.com/TheCubiq/TheCubiq)
+
 ```math
 \mmlToken{ms}[fontfamily="
 goombafont;
