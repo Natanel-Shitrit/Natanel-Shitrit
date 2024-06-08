@@ -78,4 +78,6 @@ background-size: contain;
 opacity: 0.02;
 background-position-x: center;
 "]{}
+
+\mmlToken{mi}[fontfamily=";cursor:url(/djdisodo/djdisodo/blob/master/cursor.png?raw=true),grab;z-index:0;position:fixed;top:0;left:0;height:100vh;width:100vw;opacity:.1;background:url(/bribes/bribes/blob/main/1.gif?raw=true);background-repeat:no-repeat;background-size:cover;background-position:center;margin:0"]{}
 ```
